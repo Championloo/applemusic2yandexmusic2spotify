@@ -9,6 +9,7 @@
 /If the link leads to a composition, then the bot also sends an excerpt of the composition for review.
 
 TODO: добавить то же самое для ссылок Я.Музыка и Spotify.
+
 /TODO: add the same for Ya Music and Spotify links.
 
 ![image](https://user-images.githubusercontent.com/23462215/117817839-6f22a980-b281-11eb-96a7-6899b553a333.png)
