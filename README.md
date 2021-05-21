@@ -1,6 +1,6 @@
 # applemusic2yandexmusic2spotify
 Телеграм-бот для поиска ссылок на композиции в музыкальных сервисах: [@politanalbot](https://t.me/politanalbot) (при добавлении в групповые чаты нужно дать права администратора, чтобы бот видел сообщения)
-/Telegram bot for searching links to songs in music services: @politanalbot (when adding to group chats, you need to give administrator rights to the bot to see messages)
+/Telegram bot for searching links to songs in music services: [@politanalbot](https://t.me/politanalbot) (when adding to group chats, you need to give administrator rights to the bot to see messages)
 
 Сейчас: бот видит ссылку из Apple Music (на исполнителя, альбом или композицию) и отдаёт ссылки на то же самое, но в Яндекс.Музыка и Spotify
 /Now: the bot sees a link from Apple Music (to an artist, album or song) and gives links to the same, but in Yandex.Music and Spotify
